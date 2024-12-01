@@ -1,0 +1,36 @@
+{
+    "user_profiles": {
+        "7727130914": {
+            "rank": "BOT🙄",
+            "secret_id": "GZqjaals",
+            "balance": 0,
+            "total_profit": 50000,
+            "transactions": 0,
+            "refunds": 0,
+            "monthly_profit": 0,
+            "last_profit_date": "0",
+            "promo_code": "A9qO89"
+        },
+        "5855719307": {
+            "rank": "BOT🙄",
+            "secret_id": "VaRSjDaI",
+            "balance": 0,
+            "total_profit": 100000,
+            "transactions": 0,
+            "refunds": 0,
+            "monthly_profit": 0,
+            "last_profit_date": "0",
+            "promo_code": "jJZZ3d"
+        },
+        "1004790337": {
+            "secret_id": "mY3GUKDf",
+            "balance": 0,
+            "total_profit": 0,
+            "transactions": 0,
+            "refunds": 0,
+            "monthly_profit": 0,
+            "last_profit_date": "0",
+            "promo_code": "gpcNYx"
+        }
+    }
+}
